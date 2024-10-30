@@ -1,1 +1,1 @@
-
+In this lab I implemented a counter program thgat increments number with a given base. the lab uses conditions to manually increment the number and increment its left digit if the rightmost digit has reached its maximum value (which is the base value)
